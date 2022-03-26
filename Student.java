@@ -1,4 +1,4 @@
-package StudentenVerwaltung;
+
 
 public class Student {
 	// UI -> API -> Gesch�ftslogic(DOMAIN) -> Infrastruktur(ORM persistence)
