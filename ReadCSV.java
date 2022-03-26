@@ -1,4 +1,4 @@
-package StudentenVerwaltung;
+
 import java.util.*;
 import java.io.*;
 import java.nio.*;
