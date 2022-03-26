@@ -1,4 +1,3 @@
-package StudentenVerwaltung;
 
 public class Student {
 
